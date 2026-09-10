@@ -1,0 +1,46 @@
+
+1=+  addition
+
+let prix = 100;
+let quantite = 2;
+
+
+
+let total = prix + quantite;
+console.log("Total :", total);
+
+
+
+2=  -  soustraction
+
+let prix = 100;
+let quantite = 2;
+
+
+
+let total = prix - quantite;
+console.log("Total :", total);
+
+3= *  multiplication
+
+let prix = 100;
+let quantite = 2;
+
+
+
+let total = prix * quantite;
+console.log("Total :", total);
+
+
+4= /  division
+
+
+let prix = 100;
+let quantite = 2;
+
+
+
+let total = prix / quantite;
+console.log("Total :", total);
+
+
