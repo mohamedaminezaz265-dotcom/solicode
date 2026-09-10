@@ -1,0 +1,29 @@
+
+
+
+let nom = "mohamed";
+let prenom = "amine";
+let formation = "Développement Web";
+
+
+console
+.log(nom)
+console
+.log(prenom)
+console
+.log(formation)
+
+
+1 EX 
+
+let age = 20;
+
+console.log("Age :", age);
+
+if (age >= 18) {
+    console.log("Tu es majeur");
+} else {
+    console.log("Tu es mineur");
+}
+
+
