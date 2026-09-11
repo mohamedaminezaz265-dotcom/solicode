@@ -1,0 +1,7 @@
+let a=67;
+let b=50;
+console.log("avant",a,b);
+let temp=a;
+a=b;
+b=temp;
+console.log("apres",a,b);
